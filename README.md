@@ -1,7 +1,11 @@
 👋 Hi, I’m @kevinajordan
-👀 I’m interested in building products and services that people love.
+
+👀 I’m interested in building products and services that people want.
+
 🌱 I’m currently learning React, GraphQL, FastAPI, PyTorch
+
 💞️ I’m looking to collaborate on market research on the world's largest problems.
+
 📫 Reach me on Twitter @kevin_jordan__ or LinkedIn (www.linkedin.com/in/kevin-j-b0606650)
 
 <!---
