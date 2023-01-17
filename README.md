@@ -2,7 +2,7 @@
 
 👀 I’m interested in building products and services that people want.
 
-🌱 I’m currently learning React, GraphQL, FastAPI, PyTorch
+🌱 I’m currently learning React, GraphQL, NextJS, and Supabase in my journey to becoming a full stack developer.
 
 💞️ I’m looking to collaborate on market research on the world's largest problems.
 
